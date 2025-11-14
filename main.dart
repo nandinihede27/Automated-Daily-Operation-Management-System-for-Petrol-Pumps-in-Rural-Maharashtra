@@ -9,13 +9,7 @@ Future<void> main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyDGKYQb0XAEwm5R_FCBBphVX1YIg6wpLi4",
-        authDomain: "mega-b0e15.firebaseapp.com",
-        projectId: "mega-b0e15",
-        storageBucket: "mega-b0e15.appspot.com",
-        messagingSenderId: "293890065297",
-        appId: "1:293890065297:web:34f8d774e89412cd52d030",
-        measurementId: "G-G12D2XYHG7",
+        "use your own firebase configurations"
       ),
     );
   } else {
@@ -41,3 +35,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
