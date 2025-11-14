@@ -1,0 +1,2 @@
+# Automated-Daily-Operation-Management-System-for-Petrol-Pumps-in-Rural-Maharashtra
+Developed a mobile application using Flutter and Firebase to streamline daily petrol pump operations such as employee management, stock updates, and work history tracking. Implemented real-time database integration, secure authentication, and an interactive admin and employee dashboard to enhance efficiency and accuracy in operations.
